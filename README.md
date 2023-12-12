@@ -1,3 +1,5 @@
+# G了已经
+
 前端接口：
 ```js
 authKey: function(g, A, I) {
